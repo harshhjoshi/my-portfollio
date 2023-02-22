@@ -1,4 +1,4 @@
-import { kebabCase, kebabArray } from "@/utils/utils";
+import { kebabCase } from "@/utils/utils";
 import { Project } from "types";
 
 const projects: Project[] = [
@@ -8,7 +8,7 @@ const projects: Project[] = [
     desc: "All the resources you will need to get a boost into economics.",
     img: "/static/projects/yei-learn.png",
     link: "https://learn.theyei.org/",
-    github: "https://github.com/braydentw/learn.theyei",
+    github: "https://github.com/harshhjoshi/learn.theyei",
     tags: ["React", "NextJS", "TailwindCSS", "CSS", "Firebase"],
   },
   {
@@ -24,8 +24,8 @@ const projects: Project[] = [
     title: "React Emoji Search",
     desc: "1800+ emojis at your fingertips. Ready-to-use with just a simple copy+paste.",
     img: "/static/projects/react-emoji-search.png",
-    link: "https://react-emoji-search.braydentw.vercel.app/",
-    github: "https://github.com/braydentw/react-emoji-search",
+    link: "https://react-emoji-search.harshhjoshi.vercel.app/",
+    github: "https://github.com/harshhjoshi/react-emoji-search",
     tags: ["React", "CSS", "JSON"],
   },
   {
@@ -41,7 +41,7 @@ const projects: Project[] = [
     title: "Create HTML Boilerplate",
     desc: "Generate a vanilla HTML boilerplate in a flash!",
     img: "/static/projects/create-html-boilerplate.png",
-    github: "https://github.com/BraydenTW/create-html-boilerplate",
+    github: "https://github.com/harshhjoshi/create-html-boilerplate",
     tags: ["Node", "Javascript", "NPM", "HTML"],
   },
   {
@@ -49,7 +49,7 @@ const projects: Project[] = [
     title: "8 Ball in your CLI",
     desc: "An 8 ball simulation in your CLI built with Rust!",
     img: "/static/projects/8ball-rust.png",
-    github: "https://github.com/BraydenTW/8ball-rust",
+    github: "https://github.com/harshhjoshi/8ball-rust",
     tags: ["Rust", "CLI", "Game"],
   },
   {
@@ -57,7 +57,7 @@ const projects: Project[] = [
     title: "DontLeaveMe 😭",
     desc: "Beg for users to stay on your website.",
     img: "/static/projects/dontleaveme.png",
-    link: "https://github.com/BraydenTW/dontleaveme/",
+    link: "https://github.com/harshhjoshi/dontleaveme/",
     tags: ["Javascript", "NPM"],
   },
   {
@@ -66,7 +66,7 @@ const projects: Project[] = [
     desc: "A simple version of Madlibs built for the web!",
     img: "/static/projects/madlibs.png",
     link: "https://fillemin.netlify.app/",
-    github: "https://github.com/braydentw/madlibs",
+    github: "https://github.com/harshhjoshi/madlibs",
     tags: ["HTML", "CSS", "Javascript"],
   },
 ];

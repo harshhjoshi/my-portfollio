@@ -1,14 +1,14 @@
-import Footer from "../global/Footer";
 import Head from "next/head";
+import React from "react";
+import Footer from "../global/Footer";
 import MobileNavbar from "../global/MobileNavbar";
 import Navbar from "../global/Navbar";
-import React, { ReactChildren } from "react";
 
 function Page({ currentPage, meta: { title, desc }, children }: PageProps) {
   const pageTitle = `${
     currentPage === "Home"
-      ? "Brayden Wright - Web Developer, Designer, Creator."
-      : `${currentPage} - BraydenTW.io`
+      ? "Harsh Joshi - Mobile App Developer, Web Developer, Designer, Creator."
+      : `${currentPage} - HarshJoshi.io`
   }`;
   console.log(currentPage);
   return (

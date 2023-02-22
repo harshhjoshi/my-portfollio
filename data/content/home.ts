@@ -12,6 +12,10 @@ type Testimonial = {
 
 export const skills: Skill[] = [
   {
+    title: "React Native",
+     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+  },
+  {
     title: "HTML",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
   },
@@ -22,6 +26,10 @@ export const skills: Skill[] = [
   {
     title: "Javascript",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+  },
+  {
+    title: "Typescript",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
   },
   {
     title: "Sass",
@@ -41,12 +49,12 @@ export const skills: Skill[] = [
     style: { filter: "invert(1)" },
   },
   {
-    title: "Typescript",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
-  },
-  {
     title: "NodeJS",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+    style: { filter: "invert(1)" },
+  },{
+    title: "Blockchain",
+    icon: "https://logos-download.com/wp-content/uploads/2019/11/Blockchain_Logo.png",
   },
   {
     title: "Git",
@@ -65,20 +73,20 @@ export const skills: Skill[] = [
 export const testimonials: Testimonial[] = [
   {
     quote:
-      "The communication throughout the project was spot on and the genre of design was carried out well.",
-    name: "Wilson Bright",
-    job: "Co-Founder of BlockSurvey",
+      "He remains within budget and on time with all deliverables. foster a strong client relationship with a very good understanding of development.",
+    name: "Fenil Patel",
+    job: "Co-Founder of Nectarbits",
   },
   {
     quote:
       "The code was clean, easy to understand, and exactly what I was looking for.",
-    name: "Philip Imperato",
-    job: "CEO of VisualBonus",
+    name: "Renish Vekariya",
+    job: "CEO of IGreenTech",
   },
   {
     quote:
       "My vision was executed perfectly. The quality and speed of the work was excellent.",
-    name: "Zach Green",
-    job: "Founder of Hangxiety Shrink",
+    name: "Jay Ajagiya",
+    job: "Founder of TheFalconGroup",
   },
 ];

@@ -1,13 +1,64 @@
-<svg width="909" height="909" viewBox="0 0 909 909" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M606.798 163C365.063 327.215 153.824 466.5 174.386 541C205.299 653 698 283 750.386 385C791.988 466 243.5 769.5 243.5 769.5" stroke="#00c7ff" stroke-width="50"/>
-<circle cx="667.298" cy="122" r="25" fill="#00c7ff"/>
-<circle cx="605.298" cy="164" r="25" fill="#00c7ff"/>
-<circle cx="243" cy="769.78" r="25" fill="#00c7ff"/>
-<circle cx="181" cy="812" r="25" fill="#00c7ff"/>
-<circle cx="463" cy="441" r="250" fill="white"/>
-<path d="M175 541.991C205.913 653.991 698.613 283.991 751 385.991" stroke="#00c7ff" stroke-width="50"/>
-<g style="mix-blend-mode:luminosity">
-<path d="M552.393 429.929C561.175 419.373 566.636 407.25 566.636 395.297C566.636 381.076 563.33 368.935 554.471 360.368C545.62 351.809 531.417 347 510.041 347H347H346V348V534V535H347H518.06C539.501 535 555.018 528.829 565.174 518.664C575.327 508.503 580 494.474 580 478.997C580 458.75 568.418 441.723 552.393 429.929ZM417.493 394.171H480.641C484.173 394.171 487.826 394.187 490.611 395.356C491.967 395.925 493.076 396.755 493.856 397.971C494.639 399.192 495.143 400.885 495.143 403.269C495.143 405.652 494.639 407.345 493.856 408.566C493.076 409.782 491.967 410.612 490.611 411.182C487.826 412.35 484.173 412.366 480.641 412.366H417.493V394.171ZM494.005 482.514H417.493V464.851H494.005C497.536 464.851 501.195 464.866 503.983 466.006C505.344 466.562 506.45 467.37 507.227 468.549C508.005 469.731 508.507 471.37 508.507 473.683C508.507 475.995 508.005 477.635 507.227 478.817C506.45 479.995 505.344 480.804 503.983 481.36C501.195 482.499 497.536 482.514 494.005 482.514Z" fill="black"/>
-<path d="M552.393 429.929C561.175 419.373 566.636 407.25 566.636 395.297C566.636 381.076 563.33 368.935 554.471 360.368C545.62 351.809 531.417 347 510.041 347H347H346V348V534V535H347H518.06C539.501 535 555.018 528.829 565.174 518.664C575.327 508.503 580 494.474 580 478.997C580 458.75 568.418 441.723 552.393 429.929ZM417.493 394.171H480.641C484.173 394.171 487.826 394.187 490.611 395.356C491.967 395.925 493.076 396.755 493.856 397.971C494.639 399.192 495.143 400.885 495.143 403.269C495.143 405.652 494.639 407.345 493.856 408.566C493.076 409.782 491.967 410.612 490.611 411.182C487.826 412.35 484.173 412.366 480.641 412.366H417.493V394.171ZM494.005 482.514H417.493V464.851H494.005C497.536 464.851 501.195 464.866 503.983 466.006C505.344 466.562 506.45 467.37 507.227 468.549C508.005 469.731 508.507 471.37 508.507 473.683C508.507 475.995 508.005 477.635 507.227 478.817C506.45 479.995 505.344 480.804 503.983 481.36C501.195 482.499 497.536 482.514 494.005 482.514Z" stroke="black" stroke-width="2"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(1 0 0 1 540 540)" id="a6f3bfac-f1e9-4c11-93f5-7d4d7fbe0196"  >
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="b5a1fd27-4cc5-444e-9363-09933e2ec656"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(0.44 0 0 0.44 540 538.68)"  >
+<path style="stroke: rgb(0,199,255); stroke-width: 50; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-462.82, -466.25)" d="M 606.798 163 C 365.063 327.215 153.824 466.5 174.386 541 C 205.299 653 698 283 750.386 385 C 791.988 466 243.5 769.5 243.5 769.5" stroke-linecap="round" />
+</g>
+<g transform="matrix(0.44 0 0 0.44 631.63 386.98)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,199,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="25" />
+</g>
+<g transform="matrix(0.44 0 0 0.44 604.13 405.61)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,199,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="25" />
+</g>
+<g transform="matrix(0.44 0 0 0.44 443.44 674.29)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,199,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="25" />
+</g>
+<g transform="matrix(0.44 0 0 0.44 415.94 693.01)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,199,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="25" />
+</g>
+<g transform="matrix(0.44 0 0 0.44 540.22 527.67)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="250" />
+</g>
+<g transform="matrix(0.44 0 0 0.44 540.09 534.54)"  >
+<path style="stroke: rgb(0,199,255); stroke-width: 50; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-463, -465.67)" d="M 175 541.991 C 205.913 653.991 698.613 283.991 751 385.991" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 535.58 534.54)" style="" id="6079f657-df49-40cf-8110-950b1a811e66"  >
+		<text xml:space="preserve" font-family="Raleway" font-size="111" font-style="normal" font-weight="900" text-decoration="overline underline" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-41.63" y="34.87" >H</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 540 539.25)"  >
+<path style="stroke: rgb(0,199,255); stroke-width: 50; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-462.82, -466.25)" d="M 606.798 163 C 365.063 327.215 153.824 466.5 174.386 541 C 205.299 653 698 283 750.386 385 C 791.988 466 243.5 769.5 243.5 769.5" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 744.48 195)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,199,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="25" />
+</g>
+<g transform="matrix(1 0 0 1 682.48 237)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,199,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="25" />
+</g>
+<g transform="matrix(1 0 0 1 320.18 842.78)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,199,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="25" />
+</g>
+<g transform="matrix(1 0 0 1 258.18 885)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,199,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="25" />
+</g>
+<g transform="matrix(1 0 0 1 540.18 514)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="250" />
+</g>
+<g transform="matrix(1 0 0 1 540.18 538.67)"  >
+<path style="stroke: rgb(0,199,255); stroke-width: 50; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-463, -465.67)" d="M 175 541.991 C 205.913 653.991 698.613 283.991 751 385.991" stroke-linecap="round" />
+</g>
+<g transform="matrix(2.85 0 0 2.85 540.78 524.02)" id="920a84eb-be2a-4945-a17e-c5e3fe054f91"  >
+	<image style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAAAXNSR0IArs4c6QAAAsBJREFUeF7tnNFtFEEQBZ9JgACwTDyIPJwTJALxYP4JAXT+OJ2l9e2sXyE1R/nXM62equ6Z2V3p7uLfKAJ3o7IxmShkWBEo5AaFfE7yJcmHcm0/kzwm+VbG2Zs+Ol+iQ56S3O9RWPz/KdbD4ti3DhudLyHk91vJvDKPyOlaSqPzJRY/eoEbZkbnq5C+vQmG5yyIYKMrzg4ZVnEKUUhFwC2rwvc8mWDoGdJ7QBmiwTzUh9lViEIqAqMLiDiQRi/Qa29VvPytRSEKqQi4ZVX4+I5WiEJ2CRBF4veQXczrAxSyzmpzpNfeEuDldKIaFaKQisDoArJDKrdee3t8iR1ykCLRtV57D0K/NlwhJczRW4AvF0u79DdqhSikIkDs125ZlYKXkxXSwyQYnrMggtkhvVSFDGOoEIWsEyC2UZ/U13nf3Ei0gIhg9KH+rxkjGI4+QxRSErBDSoCX04l2U4hCQAJ9KKKoPUN6DyhDNJhb1jC7ClEISKAP5RnSM0QjKATF2QdTSM8QjaAQFGcfTCE9QzSCQlCcfTCF9AzRCDcv5FeJ612S92WMI9NvXgi6wA2y9JsFNF8i2OgFKuRIs2+PJYrkWhajC4hY/OgF2iF2SEXADqnwPU8mGJ6zIIK5ZfVSFTKMoUIUsk6A2Ea99q7z3h2pkF1E1wd4qJcAL6cT1agQhVQERheQHVK59cGwx+ePzxxmSHSt197D2F+foJAS5uhD0tfvpV367alCFFIRIPZrt6xKwcvJCulhEgx9/d57QBmiwdyyhtlViEIqAqMLiDiQRi/Q55CqePm3pwpRSEXALavCx3e0QhSyS4AoEr+H7GJeH6CQdVabI732lgAvpxPVqJBhQp6S3EM5/UjyEYr1Whgy31OsBzJfokM+JfkKSDkt7jHJd3KBG7FG50sI+cv8/q/wChnmWyEKGUZgWDp/AJGHs2Wh3j6KAAAAAElFTkSuQmCC" x="-50" y="-50" width="100" height="100"></image>
+</g>
+<g transform="matrix(1.81 0 0 1.81 535.05 460.95)" id="5b578300-64e4-46f8-bbe5-34e0e0dd06c2"  >
+	<image style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  xlink:href="data:image/png;base64,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" x="-25" y="-25" width="50" height="50"></image>
 </g>
 </svg>
